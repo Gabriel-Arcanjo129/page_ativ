@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write  # <– ESSENCIAL para o GitHub Token ter permissão de push
-  contents: read
   pages: write
   id-token: write
 
